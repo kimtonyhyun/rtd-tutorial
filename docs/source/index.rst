@@ -24,5 +24,4 @@ Contents
 
    usage
    api
-   motorization
 
